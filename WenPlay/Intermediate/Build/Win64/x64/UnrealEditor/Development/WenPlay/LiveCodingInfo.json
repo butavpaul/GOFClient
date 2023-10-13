@@ -1,0 +1,39 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.WenPlay.cpp.obj": [
+			"ClientMetadata.gen.cpp.obj",
+			"IrnAck.gen.cpp.obj",
+			"IrnPublish.gen.cpp.obj",
+			"IrnPublishParams.gen.cpp.obj",
+			"IrnSubscribe.gen.cpp.obj",
+			"JsonRpcRequest.gen.cpp.obj",
+			"NetworkType.gen.cpp.obj",
+			"QRCodeGenerator.gen.cpp.obj",
+			"SessionDelete.gen.cpp.obj",
+			"SessionDeleteParams.gen.cpp.obj",
+			"SessionParams.gen.cpp.obj",
+			"SessionPropose.gen.cpp.obj",
+			"SessionProposeParams.gen.cpp.obj",
+			"SessionProposer.gen.cpp.obj",
+			"SessionProtocol.gen.cpp.obj",
+			"SessionRequest.gen.cpp.obj",
+			"SessionRequestParams.gen.cpp.obj",
+			"SessionRequestTransactionParams.gen.cpp.obj",
+			"SessionRequiredNamespaceParams.gen.cpp.obj",
+			"SessionRequiredNamespaces.gen.cpp.obj",
+			"Transaction.gen.cpp.obj",
+			"TransactionData.gen.cpp.obj",
+			"TransactionSigned.gen.cpp.obj",
+			"TransactionState.gen.cpp.obj",
+			"TransactionStatus.gen.cpp.obj",
+			"WenPlay.init.gen.cpp.obj",
+			"WenPlaySession.gen.cpp.obj",
+			"Cipher.cpp.obj",
+			"WalletConnectProtocol.cpp.obj",
+			"WenPlay.cpp.obj",
+			"WenPlayLog.cpp.obj",
+			"WenPlaySession.cpp.obj"
+		]
+	}
+}

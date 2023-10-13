@@ -1,0 +1,12 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-WenPlay.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"..\Intermediate\Build\Win64\x64\UnrealEditor\Development\Engine\SharedPCH.Engine.Cpp17.InclOrderUnreal5_1.h.obj"
+"D:\GOF\GOF-UE5.3.1\Plugins\WenPlay\Intermediate\Build\Win64\x64\UnrealEditor\Development\WenPlay\Module.WenPlay.cpp.obj"
+"..\Intermediate\Build\Win64\x64\UnrealEditor\Development\Default.rc2.res"
+/OUT:"D:\GOF\GOF-UE5.3.1\Plugins\WenPlay\Intermediate\Build\Win64\x64\UnrealEditor\Development\WenPlay\UnrealEditor-WenPlay.lib"
